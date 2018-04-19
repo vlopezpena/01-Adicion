@@ -1,0 +1,15 @@
+Last login: Thu Apr 19 10:54:20 on ttys000
+Mazzziu-MacBook-Pro:vane Mazzziu$ ./adicion
+Numero 1: 5
+
+Numero 2: 5
+
+La suma es: 10
+Mazzziu-MacBook-Pro:vane Mazzziu$ 
+
+
+
+
+
+
+
